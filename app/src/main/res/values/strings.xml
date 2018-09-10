@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Emergencias médicas</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_cierra_sesion">Cerrar sesión</string>
+    <string name="title_activity_login">Iniciar sesión</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario o email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">El correo es inválido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">Usuario o contraseña inválido</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
